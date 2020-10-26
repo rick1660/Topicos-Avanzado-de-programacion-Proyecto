@@ -1,0 +1,24 @@
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\Gestor de gastor.exe.config
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\Gestor de gastor.exe
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\Gestor de gastor.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\MainWindow.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\App.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.lref
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\MainWindow.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.g.resources
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor_de_gastor.Properties.Resources.resources
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.GenerateResource.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.exe
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.csprojAssemblyReference.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Principal.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Principal.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CopyComplete
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\App.baml
