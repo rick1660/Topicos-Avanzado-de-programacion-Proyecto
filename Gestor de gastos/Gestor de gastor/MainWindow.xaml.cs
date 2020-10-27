@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace Gestor_de_gastor
 {
     /// <summary>
@@ -31,6 +32,7 @@ namespace Gestor_de_gastor
             Principal pcl = new Principal();
             pcl.Show();
             this.Close();
+
 
         }
     }
