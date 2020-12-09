@@ -1,0 +1,17 @@
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.pdb
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.dll
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.pdb
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csprojAssemblyReference.cache
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csproj.CoreCompileInputs.cache
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.dll
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.dll
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.dll
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csprojAssemblyReference.cache

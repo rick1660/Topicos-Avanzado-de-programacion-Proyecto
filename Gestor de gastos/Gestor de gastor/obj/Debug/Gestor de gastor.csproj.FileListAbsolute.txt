@@ -22,3 +22,169 @@ C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gas
 C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Principal.baml
 C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CopyComplete
 C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastor\Gestor de gastor\obj\Debug\App.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe.config
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csprojAssemblyReference.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\App.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.lref
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\App.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.g.resources
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor_de_gastor.Properties.Resources.resources
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.GenerateResource.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CopyComplete
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.exe
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Datos\usuarios.csv
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.dll
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.pdb
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Login.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RecuperacionContraseña.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RegistroUsuario.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Login.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RecuperacionContraseña.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RegistroUsuario.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Cuenta.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Cuenta.baml
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\UserControl1.g.cs
+C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\UserControl1.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Datos\usuarios.csv
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe.config
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.pdb
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.dll
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.dll
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.dll
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.pdb
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.pdb
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.pdb
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csprojAssemblyReference.cache
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Cuenta.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Login.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RecuperacionContraseña.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RegistroUsuario.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\UserControl1.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\App.g.cs
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.cache
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.lref
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\App.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Cuenta.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Login.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RecuperacionContraseña.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RegistroUsuario.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\UserControl1.baml
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.g.resources
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor_de_gastor.Properties.Resources.resources
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.GenerateResource.cache
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CoreCompileInputs.cache
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CopyComplete
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.exe
+D:\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.pdb
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Datos\usuarios.csv
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe.config
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.pdb
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.dll
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.dll
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.dll
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.pdb
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.pdb
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.pdb
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csprojAssemblyReference.cache
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Cuenta.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Login.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RecuperacionContraseña.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RegistroUsuario.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\UserControl1.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\App.g.cs
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.cache
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.lref
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\App.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Cuenta.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Login.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RecuperacionContraseña.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\RegistroUsuario.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\UserControl1.baml
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.g.resources
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor_de_gastor.Properties.Resources.resources
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.GenerateResource.cache
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CoreCompileInputs.cache
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CopyComplete
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.exe
+D:\Trabajos\noveno semestre\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Datos\usuarios.csv
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe.config
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.dll
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.dll
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csprojAssemblyReference.cache
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\App.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.cache
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.lref
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\App.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.g.resources
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor_de_gastor.Properties.Resources.resources
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.GenerateResource.cache
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CopyComplete
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.exe
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.pdb
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoGastos.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoGastos.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoPresupuesto.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoPresupuesto.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance de cuenta.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance Semanal.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceDiario.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceMensual.g.cs
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance de cuenta.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance Semanal.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceDiario.baml
+C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceMensual.baml

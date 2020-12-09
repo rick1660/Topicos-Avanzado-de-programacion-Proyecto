@@ -50,11 +50,10 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DsUsuario.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Models\Seguridad\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\Seguridad\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Datasets\seguridad\DsUsuario.xsc">
       <DependentUpon>DsUsuario.xsd</DependentUpon>

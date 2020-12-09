@@ -1,0 +1,15 @@
+﻿<Page x:Class="Gestor_de_gastor.IngresoGastos"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Gestor_de_gastor"
+      mc:Ignorable="d" 
+      d:DesignHeight="540" d:DesignWidth="769"
+      Title="IngresoGastos">
+
+    <Grid>
+        <Label Content="Ingreso de gastos" HorizontalAlignment="Left" Margin="314,52,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+    </Grid>
+</Page>

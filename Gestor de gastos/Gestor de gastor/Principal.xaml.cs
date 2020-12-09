@@ -22,6 +22,7 @@ namespace Gestor_de_gastor
         public Principal()
         {
             InitializeComponent();
+
         }
 
         private void BtmPopupSalir_Click(object sender, RoutedEventArgs e)
@@ -40,7 +41,41 @@ namespace Gestor_de_gastor
             BtnOpen.Visibility = Visibility.Visible;
             BtnClose.Visibility = Visibility.Collapsed;
         }
-
        
+        
+        private void BtnOne_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void BtnGastos_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new IngresoGastos();
+        }
+
+        private void BtnIngresos_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new IngresoPresupuesto();
+        }
+
+        private void BtnBD_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new BalanceDiario();
+        }
+
+        private void BtnBS_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new Balance_Semanal();
+        }
+
+        private void BtnBM_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new BalanceMensual();
+        }
+
+        private void BtnBC_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new Balance_de_cuenta();
+        }
     }
 }

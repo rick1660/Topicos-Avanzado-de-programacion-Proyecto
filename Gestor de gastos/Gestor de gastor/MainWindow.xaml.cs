@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Proyecto.Data.Seguridad;
+using Proyecto.Models.Models.Seguridad;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,15 +26,36 @@ namespace Gestor_de_gastor
         public MainWindow()
         {
             InitializeComponent();
+            Usuario  user = new Usuario();
+            ListaUsuario listaUsers = new ListaUsuario();
         }
+
+       
+
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            Principal pcl = new Principal();
-            pcl.Show();
-            this.Close();
+            DataUsuario datauser = new DataUsuario();
+           var resultado = datauser.getLogin(txtCorreo.Text, txtPassword.Text);
+            if(resultado.NombreUsuario != null) 
+            {
 
+                Principal pcl = new Principal();
+                pcl.Show();
+                this.Close();
+            }
+            else 
+            {
+                MessageBox.Show("Error no existe el usuario");
+            }
+            
+           
+
+        }
+
+        private void UserControl1_Loaded(object sender, RoutedEventArgs e)
+        {
 
         }
     }

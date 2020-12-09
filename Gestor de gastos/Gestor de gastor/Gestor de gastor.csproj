@@ -45,6 +45,8 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -63,6 +65,49 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Balance de cuenta.xaml.cs">
+      <DependentUpon>Balance de cuenta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Balance Semanal.xaml.cs">
+      <DependentUpon>Balance Semanal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BalanceDiario.xaml.cs">
+      <DependentUpon>BalanceDiario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BalanceMensual.xaml.cs">
+      <DependentUpon>BalanceMensual.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CambiarContraseña.xaml.cs">
+      <DependentUpon>CambiarContraseña.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Balance de cuenta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Balance Semanal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BalanceDiario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BalanceMensual.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CambiarContraseña.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IngresoGastos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IngresoPresupuesto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -70,6 +115,12 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="IngresoGastos.xaml.cs">
+      <DependentUpon>IngresoGastos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoPresupuesto.xaml.cs">
+      <DependentUpon>IngresoPresupuesto.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -112,7 +163,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\Seguridad\" />
+    <ProjectReference Include="..\Proyecto.Data\Proyecto.Data.csproj">
+      <Project>{4d7ee95e-d0be-4c7b-b452-d59a3fc88f64}</Project>
+      <Name>Proyecto.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Proyecto.Models\Proyecto.Models.csproj">
+      <Project>{09275d8c-318b-47ba-90e2-b4ad9a5c1dee}</Project>
+      <Name>Proyecto.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" />

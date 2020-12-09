@@ -1,0 +1,5 @@
+﻿1>------ Operación Compilar iniciada: proyecto: Proyecto.Data, configuración: Debug Any CPU ------
+1>  Proyecto.Data -> C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Proyecto.Data\bin\Debug\Proyecto.Data.dll
+2>------ Operación Compilar iniciada: proyecto: Gestor de gastor, configuración: Debug Any CPU ------
+2>C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\MainWindow.xaml(24,47,24,51): warning CS0108: 'MainWindow.Left' oculta el miembro heredado 'Window.Left'. Use la palabra clave new si su intención era ocultarlo.
+========== Compilar: 2 correctos, 0 incorrectos, 1 actualizados, 0 omitidos ==========

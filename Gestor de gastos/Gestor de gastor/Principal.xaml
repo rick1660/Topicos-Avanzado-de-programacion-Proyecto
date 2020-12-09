@@ -7,7 +7,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Gestor_de_gastor"
-        mc:Ignorable="d" Height="600"  Width="1080" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Foreground="White">
+        mc:Ignorable="d" Height="600"  Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Foreground="White">
     <Window.Resources>
         <Storyboard x:Key="MenuOpen">
             <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
@@ -61,50 +61,78 @@
                 </Grid>
                 <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" Foreground="#3F819D">
                     <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="ViewDashboard" Margin="10"  Width="30" Height="30" VerticalAlignment="Center"/>
-                            <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
+
+                        <Button x:Name="BtnGastos"   Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" MinWidth="60" Click="BtnGastos_Click">
+                            <StackPanel Orientation="Horizontal"  >
+                                <materialDesign:PackIcon Kind="Payment"    Width="30" Height="30" VerticalAlignment="Center"    />
+                                <TextBlock Text="Gastos" VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </Button>
                     </ListViewItem>
+
+
                     <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="ViewDashboard" Margin="10" Width="30" Height="30" VerticalAlignment="Center"/>
-                            <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
+                        <Button x:Name="BtnIngresos"   Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" MinWidth="60" Click="BtnIngresos_Click" >
+                            <StackPanel Orientation="Horizontal"  >
+                                <materialDesign:PackIcon Kind="Money"   Width="30" Height="30" VerticalAlignment="Center"    />
+                                <TextBlock Text="Ingreso de presupuesto" VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </Button>
                     </ListViewItem>
+
                     <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="ViewDashboard" Margin="10" Width="30" Height="30" VerticalAlignment="Center"/>
-                            <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
+                        <Button x:Name="BtnBD"   Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" MinWidth="60" Click="BtnBD_Click" >
+                            <StackPanel Orientation="Horizontal"  >
+                                <materialDesign:PackIcon Kind="ViewDay"   Width="30" Height="30" VerticalAlignment="Center"    />
+                                <TextBlock Text="Balance Diario
+                                           " VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </Button>
                     </ListViewItem>
+
                     <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="ViewDashboard" Margin="10" Width="30" Height="30" VerticalAlignment="Center"/>
-                            <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
+                        <Button x:Name="BtnBS"   Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" MinWidth="60" Click="BtnBS_Click" >
+                            <StackPanel Orientation="Horizontal"  >
+                                <materialDesign:PackIcon Kind="AccountBalanceWallet"   Width="30" Height="30" VerticalAlignment="Center"    />
+                                <TextBlock Text="Balance semanal" VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </Button>
                     </ListViewItem>
+
                     <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="ViewDashboard" Margin="10" Width="30" Height="30" VerticalAlignment="Center"/>
-                            <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
+                        <Button x:Name="BtnBM"   Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" MinWidth="60" Click="BtnBM_Click" >
+                            <StackPanel Orientation="Horizontal"  >
+                                <materialDesign:PackIcon Kind="ScaleBalance"   Width="30" Height="30" VerticalAlignment="Center"    />
+                                <TextBlock Text="Balance mensual" VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </Button>
                     </ListViewItem>
+
                     <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="ViewDashboard" Margin="10" Width="30" Height="30" VerticalAlignment="Center"/>
-                            <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
+                        <Button x:Name="BtnBC"   Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" MinWidth="60" Click="BtnBC_Click" >
+                            <StackPanel Orientation="Horizontal"  >
+                                <materialDesign:PackIcon Kind="AccountBalance"   Width="30" Height="30" VerticalAlignment="Center"    />
+                                <TextBlock Text="Balance de cuenta
+                                           " VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </Button>
                     </ListViewItem>
+
                     <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="ViewDashboard" Margin="10" Width="30" Height="30" VerticalAlignment="Center"/>
-                            <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
+                        <Button x:Name="Btn"   Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" Height="60" MinWidth="60" >
+                            <StackPanel Orientation="Horizontal"  >
+                                <materialDesign:PackIcon Kind="ViewDashboard"   Width="30" Height="30" VerticalAlignment="Center"    />
+                                <TextBlock Text="Home" VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </Button>
                     </ListViewItem>
+
                 </ListView>
             </StackPanel>
-              
+
         </Grid>
+
+        <Frame x:Name="Main" Margin="149,60,82,0" NavigationUIVisibility="Hidden" />
+
     </Grid>
 </Window>
