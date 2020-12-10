@@ -40,9 +40,9 @@
             <Label Grid.Column="1" Grid.Row="0" Content="Gastos" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
             <Label Grid.Column="2" Grid.Row="0" Content="Balance" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
 
-            <Label Grid.Column="0" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
-            <Label Grid.Column="1" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
-            <Label Grid.Column="2" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+            <Label Grid.Column="0" Grid.Row="1" Content="$4570.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
+            <Label Grid.Column="1" Grid.Row="1" Content="$625.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground = "#e53935"/>
+            <Label Grid.Column="2" Grid.Row="1" Content="3945.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
         </Grid>
 
         <Grid Grid.Row="2">
@@ -63,16 +63,16 @@
             <Label Content="27/12 - 02/01" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="27/12 - 02/01" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="21/12 - 27/12" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="27/12 - 02/01" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="14/12 - 20/12" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="27/12 - 02/01" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="27/12 - 02/01" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="07/12 - 13/12" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$4570.00" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5"/>
+            <Label Content="$625.00" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935"/>
+            <Label Content="30/11 - 06/12" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Label Content="$0.00" Grid.Row="4" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 

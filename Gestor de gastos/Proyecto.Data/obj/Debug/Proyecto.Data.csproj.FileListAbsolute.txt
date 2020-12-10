@@ -48,3 +48,13 @@ C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto
 C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.csproj.CopyComplete
 C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.dll
 C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.pdb
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\bin\Debug\Datos\usuarios.csv
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\bin\Debug\Proyecto.Data.dll
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\bin\Debug\Proyecto.Data.pdb
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\bin\Debug\Proyecto.Models.dll
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\bin\Debug\Proyecto.Models.pdb
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.dll
+C:\Users\PC\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Data\obj\Debug\Proyecto.Data.pdb

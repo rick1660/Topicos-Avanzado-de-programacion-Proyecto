@@ -92,7 +92,7 @@
 
             </TabItem>
             <TabItem Header="Gasto">
-                <Grid Background="#FFE5E5E5">
+                <Grid Background="White">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="auto"/>
                         <RowDefinition Height="auto"/>

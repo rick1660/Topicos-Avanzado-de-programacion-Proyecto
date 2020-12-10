@@ -39,9 +39,9 @@
             <Label Grid.Column="1" Grid.Row="0" Content="Gastos" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
             <Label Grid.Column="2" Grid.Row="0" Content="Balance" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
 
-            <Label Grid.Column="0" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
-            <Label Grid.Column="1" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#e53935"/>
-            <Label Grid.Column="2" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+            <Label Grid.Column="0" Grid.Row="1" Content="$4570.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
+            <Label Grid.Column="1" Grid.Row="1" Content="$625.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#e53935"/>
+            <Label Grid.Column="2" Grid.Row="1" Content="$3945.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
 
         </Grid>
 
@@ -112,7 +112,7 @@
                     </Grid>
 
                     <!--Label ingreso diario-->
-                    <Label Grid.Column="2" Grid.Row="0" Content="$36.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
+                    <Label Grid.Column="2" Grid.Row="0" Content="$4570.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
 
                     <!--Label gasto diario-->
                     <Label Grid.Column="3" Grid.Row="0" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#e53935"/>
@@ -150,7 +150,7 @@
                             <!--Importe-->
                         </Grid.ColumnDefinitions>
 
-                        <Label Grid.Row="0" Grid.Column="0" Content="Petty cash"/>
+                        <Label Grid.Row="0" Grid.Column="0" Content="Salario"/>
 
                         <Grid Grid.Row="0" Grid.Column="1">
                             <Grid.RowDefinitions>
@@ -160,11 +160,11 @@
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition/>
                             </Grid.ColumnDefinitions>
-                            <Label Grid.Row="0" Grid.Column="0" Content="Nota"/>
-                            <Label Grid.Row="1" Grid.Column="0" Content="Cuenta"/>
+                            <Label Grid.Row="0" Grid.Column="0" Content="Pago de la semana"/>
+                            <Label Grid.Row="1" Grid.Column="0" Content="Tarjeta de débito"/>
                         </Grid>
 
-                        <Label Grid.Row="0" Grid.Column="2" Content="$36.00" Height="48" VerticalAlignment="Bottom" Foreground="#1e88e5"/>
+                        <Label Grid.Row="0" Grid.Column="2" Content="$4500.00" Height="48" VerticalAlignment="Bottom" Foreground="#1e88e5"/>
                     </Grid>
 
                     <!--Operacion 2-->
@@ -182,7 +182,7 @@
                             <!--Importe-->
                         </Grid.ColumnDefinitions>
 
-                        <Label Grid.Row="0" Grid.Column="0" Content="Petty cash"/>
+                        <Label Grid.Row="0" Grid.Column="0" Content="Deuda"/>
 
                         <Grid Grid.Row="0" Grid.Column="1">
                             <Grid.RowDefinitions>
@@ -193,8 +193,8 @@
                                 <ColumnDefinition Width="23*"/>
                                 <ColumnDefinition Width="642*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Grid.Row="0" Grid.Column="0" Content="Nota" Grid.ColumnSpan="2"/>
-                            <Label Grid.Row="1" Grid.Column="0" Content="Cuenta" Grid.ColumnSpan="2"/>
+                            <Label Grid.Row="0" Grid.Column="0" Content="Hermano debía dinero" Grid.ColumnSpan="2"/>
+                            <Label Grid.Row="1" Grid.Column="0" Content="Efectivo" Grid.ColumnSpan="2"/>
                         </Grid>
                         <Label Grid.Row="0" Grid.Column="2" Content="$70.00" Foreground="#1e88e5"/>
                     </Grid>
@@ -259,10 +259,10 @@
                     </Grid>
 
                     <!--Label ingreso diario-->
-                    <Label Grid.Column="2" Grid.Row="0" Content="$36.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
+                    <Label Grid.Column="2" Grid.Row="0" Content="$0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
 
                     <!--Label gasto diario-->
-                    <Label Grid.Column="3" Grid.Row="0" Content="$77.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#e53935"/>
+                    <Label Grid.Column="3" Grid.Row="0" Content="$625.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#e53935"/>
 
 
                 </Grid>
@@ -298,7 +298,7 @@
                             <!--Importe-->
                         </Grid.ColumnDefinitions>
 
-                        <Label Grid.Row="0" Grid.Column="0" Content="Petty cash"/>
+                        <Label Grid.Row="0" Grid.Column="0" Content="Transporte"/>
 
                         <Grid Grid.Row="0" Grid.Column="1">
                             <Grid.RowDefinitions>
@@ -309,11 +309,11 @@
                                 <ColumnDefinition/>
                             </Grid.ColumnDefinitions>
                             
-                            <Label Grid.Row="0" Grid.Column="0" Content="Nota"/>
-                            <Label Grid.Row="1" Grid.Column="0" Content="Cuenta"/>
+                            <Label Grid.Row="0" Grid.Column="0" Content="Gasolina"/>
+                            <Label Grid.Row="1" Grid.Column="0" Content="Efectivo"/>
                         </Grid>
 
-                        <Label Grid.Row="0" Grid.Column="2" Content="$36.00" Foreground="#e53935"/>
+                        <Label Grid.Row="0" Grid.Column="2" Content="$500.00" Foreground="#e53935"/>
                     </Grid>
 
                     <!--Operacion 2-->
@@ -331,7 +331,7 @@
                             <!--Importe-->
                         </Grid.ColumnDefinitions>
 
-                        <Label Grid.Row="0" Grid.Column="0" Content="Petty cash"/>
+                        <Label Grid.Row="0" Grid.Column="0" Content="Comida"/>
 
                         <Grid Grid.Row="0" Grid.Column="1">
                             <Grid.RowDefinitions>
@@ -343,10 +343,10 @@
                                 <ColumnDefinition Width="642*"/>
                             </Grid.ColumnDefinitions>
                             
-                            <Label Grid.Row="0" Grid.Column="0" Content="Nota" Grid.ColumnSpan="2"/>
-                            <Label Grid.Row="1" Grid.Column="0" Content="Cuenta" Grid.ColumnSpan="2"/>
+                            <Label Grid.Row="0" Grid.Column="0" Content="Lonche" Grid.ColumnSpan="2"/>
+                            <Label Grid.Row="1" Grid.Column="0" Content="Efectivo" Grid.ColumnSpan="2"/>
                         </Grid>
-                        <Label Grid.Row="0" Grid.Column="2" Content="$36.00" Foreground="#e53935"/>
+                        <Label Grid.Row="0" Grid.Column="2" Content="$125.00" Foreground="#e53935"/>
                     </Grid>
 
                 </Grid>

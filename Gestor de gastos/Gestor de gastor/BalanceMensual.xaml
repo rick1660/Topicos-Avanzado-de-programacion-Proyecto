@@ -40,12 +40,12 @@
             <Label Grid.Column="1" Grid.Row="0" Content="Gastos" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
             <Label Grid.Column="2" Grid.Row="0" Content="Balance" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
 
-            <Label Grid.Column="0" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
-            <Label Grid.Column="1" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
-            <Label Grid.Column="2" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+            <Label Grid.Column="0" Grid.Row="1" Content="$4570.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
+            <Label Grid.Column="1" Grid.Row="1" Content="$625.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#e53935"/>
+            <Label Grid.Column="2" Grid.Row="1" Content="$3945.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20" Foreground="#1e88e5"/>
         </Grid>
 
-        <Grid Grid.Row="2">
+        <Grid Grid.Row="2" Height="435" VerticalAlignment="Bottom">
             <Grid.RowDefinitions>
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
@@ -61,59 +61,60 @@
                 <RowDefinition Height="auto"/>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
+                <ColumnDefinition Width="256*"/>
+                <ColumnDefinition Width="73*"/>
+                <ColumnDefinition Width="184*"/>
+                <ColumnDefinition Width="256*"/>
             </Grid.ColumnDefinitions>
 
 
-            <Label Content="diciembre" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="noviembre" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="octubre" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="septiembre" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="agosto" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="4" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="julio" Grid.Row="5" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="5" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="junio" Grid.Row="6" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="6" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="6" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="mayo" Grid.Row="7" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="7" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="abril" Grid.Row="8" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="8" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="8" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="febrero" Grid.Row="9" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="9" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="9" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            
-            <Label Content="abril" Grid.Row="10" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="10" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="10" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="diciembre" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="98,0,98,1"/>
+            <Label Content="$4570.00" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37,0,82,2" Width="65"/>
+            <Label Content="$625.00" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,1,82,2" Width="64"/>
 
-            <Label Content="enero" Grid.Row="11" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="11" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Label Content="$0.00" Grid.Row="11" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="noviembre" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="96,1,96,0"/>
+            <Label Content="$0.00" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,1,111,0"/>
+            <Label Content="$0.00" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,1,110,0"/>
+
+            <Label Content="octubre" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="104,0,104,1"/>
+            <Label Content="$0.00" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,0,111,1"/>
+            <Label Content="$0.00" Grid.Row="2" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,0,110,1"/>
+
+            <Label Content="septiembre" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="94,1,94,0"/>
+            <Label Content="$0.00" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,1,111,0"/>
+            <Label Content="$0.00" Grid.Row="3" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,1,110,0"/>
+
+            <Label Content="agosto" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="106,0,106,1"/>
+            <Label Content="$0.00" Grid.Row="4" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,0,111,1"/>
+            <Label Content="$0.00" Grid.Row="4" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,0,110,1"/>
+
+            <Label Content="julio" Grid.Row="5" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="112,1,112,0"/>
+            <Label Content="$0.00" Grid.Row="5" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,1,111,0"/>
+            <Label Content="$0.00" Grid.Row="5" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,1,110,0"/>
+
+            <Label Content="junio" Grid.Row="6" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="111,0,111,1"/>
+            <Label Content="$0.00" Grid.Row="6" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,0,111,1"/>
+            <Label Content="$0.00" Grid.Row="6" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,0,110,1"/>
+
+            <Label Content="mayo" Grid.Row="7" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="110,1,110,0"/>
+            <Label Content="$0.00" Grid.Row="7" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,1,111,0"/>
+            <Label Content="$0.00" Grid.Row="7" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,1,110,0"/>
+
+            <Label Content="abril" Grid.Row="8" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="112,0,112,1"/>
+            <Label Content="$0.00" Grid.Row="8" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,0,111,1"/>
+            <Label Content="$0.00" Grid.Row="8" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,0,110,1"/>
+
+            <Label Content="febrero" Grid.Row="9" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="104,1,104,0"/>
+            <Label Content="$0.00" Grid.Row="9" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,1,111,0"/>
+            <Label Content="$0.00" Grid.Row="9" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,1,110,0"/>
+
+            <Label Content="abril" Grid.Row="10" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="112,0,112,1"/>
+            <Label Content="$0.00" Grid.Row="10" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,0,111,1"/>
+            <Label Content="$0.00" Grid.Row="10" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,0,110,1"/>
+
+            <Label Content="enero" Grid.Row="11" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="108,1,108,0"/>
+            <Label Content="$0.00" Grid.Row="11" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#1e88e5" Margin="37.371,1,111,0"/>
+            <Label Content="$0.00" Grid.Row="11" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground = "#e53935" Margin="110,1,110,0"/>
 
         </Grid>
 
