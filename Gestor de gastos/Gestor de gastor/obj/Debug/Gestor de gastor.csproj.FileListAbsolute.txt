@@ -188,3 +188,46 @@ C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor 
 C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance Semanal.baml
 C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceDiario.baml
 C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceMensual.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Datos\usuarios.csv
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe.config
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.exe
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Gestor de gastor.pdb
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.dll
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.dll
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Data.pdb
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\Proyecto.Models.pdb
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance de cuenta.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance Semanal.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceDiario.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceMensual.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoGastos.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoPresupuesto.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\App.g.cs
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.cache
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor_MarkupCompile.lref
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\App.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance de cuenta.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Balance Semanal.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceDiario.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\BalanceMensual.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\CambiarContraseña.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoGastos.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\IngresoPresupuesto.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\MainWindow.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Principal.baml
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.g.resources
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor_de_gastor.Properties.Resources.resources
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.csproj.CopyComplete
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.exe
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Debug\Gestor de gastor.pdb

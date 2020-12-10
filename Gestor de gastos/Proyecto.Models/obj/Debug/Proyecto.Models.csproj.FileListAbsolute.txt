@@ -15,3 +15,9 @@ C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor 
 C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.dll
 C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.pdb
 C:\Users\Rick\Documents\GitHub\Topicos-Avanzado-de-programacion-Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.dll
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Models\bin\Debug\Proyecto.Models.pdb
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.dll
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Proyecto.Models\obj\Debug\Proyecto.Models.pdb

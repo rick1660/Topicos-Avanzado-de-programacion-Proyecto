@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace Gestor_de_gastor
 {
@@ -55,7 +56,7 @@ namespace Gestor_de_gastor
 
         private void BtnIngresos_Click(object sender, RoutedEventArgs e)
         {
-            Main.Content = new IngresoPresupuesto();
+           // Main.Content = new IngresoPresupuesto();
         }
 
         private void BtnBD_Click(object sender, RoutedEventArgs e)
@@ -76,6 +77,27 @@ namespace Gestor_de_gastor
         private void BtnBC_Click(object sender, RoutedEventArgs e)
         {
             Main.Content = new Balance_de_cuenta();
+        }
+
+        private void btnAgregar_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new IngresoGastos();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new BalanceDiario();
+
+            DispatcherTimer dt = new DispatcherTimer();
+            dt.Interval = TimeSpan.FromSeconds(1);
+            dt.Tick += dtTicker;
+            dt.Start();
+
+        }
+
+        private void dtTicker(object sender, EventArgs e)
+        {
+            lblHora.Content = DateTime.Now.ToString();
         }
     }
 }

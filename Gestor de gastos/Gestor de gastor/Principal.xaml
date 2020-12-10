@@ -7,7 +7,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Gestor_de_gastor"
-        mc:Ignorable="d" Height="600"  Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Foreground="White">
+        mc:Ignorable="d" Height="600"  Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Foreground="White" Loaded="Window_Loaded">
     <Window.Resources>
         <Storyboard x:Key="MenuOpen">
             <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
@@ -132,7 +132,9 @@
 
         </Grid>
 
-        <Frame x:Name="Main" Margin="149,60,82,0" NavigationUIVisibility="Hidden" />
+        <Frame x:Name="Main" Margin="65,60,166,0" NavigationUIVisibility="Hidden" />
+        <Button x:Name="btnAgregar" FontSize="30" Content="+" HorizontalAlignment="Center" Margin="940,540,10,10" VerticalAlignment="Center" Width="50" Height="50" Click="btnAgregar_Click"/>
+        <Label x:Name="lblHora" Content="" HorizontalAlignment="Left" Margin="839,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.163,0.774"/>
 
     </Grid>
 </Window>

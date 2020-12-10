@@ -8,8 +8,76 @@
       d:DesignHeight="540" d:DesignWidth="769"
       Title="Balance_Semanal">
 
-    <Grid>
-        <Label Content="Balance Semanal" HorizontalAlignment="Left" Margin="311,50,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <!--Título-->
+            <RowDefinition Height="auto"/>
+            <!--Balance general de la semana-->
+            <RowDefinition/>
+            <!--Información detallada por día-->
+        </Grid.RowDefinitions>
+
+        <!--Label título-->
+        <Label Grid.Row="0" Content="Balance semanal" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+
+
+        <!--Grid balance general semanal-->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Grid.Row="0" Content="Ingresos" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+            <Label Grid.Column="1" Grid.Row="0" Content="Gastos" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+            <Label Grid.Column="2" Grid.Row="0" Content="Balance" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+
+            <Label Grid.Column="0" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+            <Label Grid.Column="1" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+            <Label Grid.Column="2" Grid.Row="1" Content="0.00" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+
+            <Label Content="27/12 - 02/01" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="27/12 - 02/01" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="27/12 - 02/01" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="27/12 - 02/01" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="27/12 - 02/01" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="$0.00" Grid.Row="4" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        </Grid>
+
 
     </Grid>
 </Page>

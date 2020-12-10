@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\obj\Release\
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\obj\Release\
 Gestor_de_gastor
 none
 false
 TRACE
-C:\Users\Rick\Documents\Trabajos\Topicos avanzados de programacion\Gestor de gastos\Gestor de gastor\App.xaml
-2-551189882
+C:\Users\PC\Documents\Proyecto\Gestor de gastos\Gestor de gastor\App.xaml
+9-1027049635
 
-7991700511
-17275224007
-MainWindow.xaml;Principal.xaml;
+14-1321466681
+19-1415755112
+Balance de cuenta.xaml;Balance Semanal.xaml;BalanceDiario.xaml;BalanceMensual.xaml;CambiarContraseña.xaml;IngresoGastos.xaml;IngresoPresupuesto.xaml;MainWindow.xaml;Principal.xaml;
 
 True
 

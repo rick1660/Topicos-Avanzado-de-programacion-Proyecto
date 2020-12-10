@@ -8,8 +8,170 @@
       d:DesignHeight="540" d:DesignWidth="769"
       Title="IngresoGastos">
 
-    <Grid>
-        <Label Content="Ingreso de gastos" HorizontalAlignment="Left" Margin="314,52,0,0" VerticalAlignment="Top" FontSize="20"/>
+    <Grid Background="White">
+        <TabControl x:Name="tabControl" HorizontalAlignment="Left" Height="540" VerticalAlignment="Top" Width="769">
+            <TabItem Header="Ingreso">
+                <Grid Background="White">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="74*"/>
+                        <ColumnDefinition Width="689*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Row="0" Grid.ColumnSpan="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Grid.Row="0" Grid.Column="0" Content="Fecha" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="1" Grid.Column="0" Content="Cuenta" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="2" Grid.Column="0" Content="Categoría" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="3" Grid.Column="0" Content="Importe" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="4" Grid.Column="0" Content="Nota" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+
+                        <DatePicker Grid.Row="0" Grid.Column="1" x:Name="DPFecha" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtCuenta" Grid.Row="1" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtCategoria" Grid.Row="2" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtImporte" Grid.Row="3" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtNota" Grid.Row="4" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.ColumnSpan="2">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" Content="Descripción" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+                            <RichTextBox x:Name="txtDescripcion" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+
+
+                        </Grid>
+
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Button Grid.Column="0" Content="Guardar" Foreground="White"/>
+                            <Button Grid.Column="1" Content="Continuar" Background="White" Foreground="#3F819D"/>
+
+                        </Grid>
+
+                    </Grid>
+
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="Gasto">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="74*"/>
+                        <ColumnDefinition Width="689*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Row="0" Grid.ColumnSpan="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Grid.Row="0" Grid.Column="0" Content="Fecha" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="1" Grid.Column="0" Content="Cuenta" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="2" Grid.Column="0" Content="Categoría" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="3" Grid.Column="0" Content="Importe" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+                        <Label Grid.Row="4" Grid.Column="0" Content="Nota" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"/>
+
+                        <DatePicker Grid.Row="0" Grid.Column="1" x:Name="DPFechaGasto" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtCuentaGasto" Grid.Row="1" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtCategoriaGasto" Grid.Row="2" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtImporteGasto" Grid.Row="3" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBox x:Name="txtNotaGasto" Grid.Row="4" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.ColumnSpan="2">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" Content="Descripción" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+                            <RichTextBox x:Name="txtDescripcionGasto" Grid.Column="1"  HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20"/>
+
+
+                        </Grid>
+
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Button Grid.Column="0" Content="Guardar" Foreground="White"/>
+                            <Button Grid.Column="1" Content="Continuar" Background="White" Foreground="#3F819D"/>
+
+                        </Grid>
+
+                    </Grid>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
 
     </Grid>
+
 </Page>
